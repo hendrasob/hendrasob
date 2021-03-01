@@ -1,6 +1,12 @@
-# Mahendra - @hendrasob
+<p align="center">
+ <img width="100px" src="../assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <h2 align="center">Mahendra - @Hendrasob</h2>
+ <p align="center">Front end and Web Developer</p>
+</p>
 
-[![Views](https://gpvc.arturio.dev/Hendrasob)](https://github.com/hendrasob)
+<p align="center">
+<img alt="Profile View" src="https://gpvc.arturio.dev/Hendrasob" />
+</p>
 
 ```kotlin
 object Mahendra {
@@ -25,7 +31,17 @@ My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, l
 
 ## My first kotlin app
 
-[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=hendrasob&repo=FoodApp&theme=monokai)](https://github.com/hendrasob/FoodApp)
+[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=hendrasob&repo=FoodApp&theme=radical)](https://github.com/hendrasob/FoodApp)
 
-## Motto
-> Kegagalan hanya terjadi bila kita menyerah - B.J. Habibie
+## Github Stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hendrasob&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
