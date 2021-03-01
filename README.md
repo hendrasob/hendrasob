@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="../assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
+ <img width="100px" src="https://github.com/hendrasob/hendrasob/blob/master/assets/github.gif" align="center" alt="Hendrasob's GitHub Readme" />
  <h2 align="center">Mahendra - @Hendrasob</h2>
  <p align="center">Front end and Web Developer</p>
 </p>
