@@ -25,23 +25,3 @@ object Mahendra {
 
 }
 ```
-## Hello, there
-
-My name is Mahendra and I'm a Front-End and Web Developer. I'm form Indonesia, living in Denpasar. And now I'm currently deepening android development with kotlin.
-
-## My first kotlin app
-
-[![FirstAppKotlin](https://github-readme-stats.vercel.app/api/pin/?username=hendrasob&repo=FoodApp&theme=vue-dark)](https://github.com/hendrasob/FoodApp)
-
-## Github Stats
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="Hendrasob's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hendrasob&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" />
-  <img alt="Hendrasob's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendrasob&langs_count=10&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Hendrasob&theme=soft-green" />
