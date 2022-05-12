@@ -9,7 +9,7 @@
 </p>
 
 ```kotlin
-object Mahendra {
+object profile {
  val name = "Hendra"
  val birth = "25th-august"
  
